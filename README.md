@@ -20,4 +20,4 @@ The Vacation_Search jupyter notebook ingests the city weather data from the weat
 
 ## Travel Itinerary Map
 
-The final deliverable, found in the Vacation_Itinerary juypter notebook leverage the Directions API by Google to display on a map a route which starts and ends with the same city and loops through the other three, effectively creating a milk run.
+The final deliverable, found in the Vacation_Itinerary juypter notebook leverages the Directions API by Google to display on a map a route which starts and ends with the same city and loops through the other three, effectively creating a milk run.
