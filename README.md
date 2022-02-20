@@ -16,6 +16,8 @@ This data is then exported to a CSB for use in the Travel Destination Map.
 
 ## Travel Destination Map
 
-The Vacation_Search jupyter notebook ingests the city weather data from the weather_database.  I asks the end user to speficty what is the maximum and minimum temperature preferences for their vacation.  With these inputs a filtered list of cities is generated and using
+The Vacation_Search jupyter notebook ingests the city weather data from the weather_database.  I asks the end user to speficty what is the maximum and minimum temperature preferences for their vacation.  With these inputs a filtered list of cities is generated and using googles nearby search api a list of hotels is retreived.  These hotels are then mapped and the marker updated to include a weather description for the city the hotel is in.
 
 ## Travel Itinerary Map
+
+The final deliverable is select four cities on a continent and to once again leverage googles API to display on a map a route which starts and ends wit the same city and loops through the other three, effectively creating a milk run.
